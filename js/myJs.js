@@ -124,9 +124,7 @@ $('#yes').click(function() {
                 title: 'Anh biết mà ^^ Yêu bé 300.000',
                 text: "Tối nay anh qua đón bé đi chơi nhaaaaaaaaa :v Còn giờ thì chờ gì nữa mà không inbox cho anh đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
-                onClose: () => {
-                    window.location = 'http://fb.com';
-                  }
+               
             })
         }
     })
